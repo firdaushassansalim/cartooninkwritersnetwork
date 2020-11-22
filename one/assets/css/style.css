@@ -1272,6 +1272,7 @@ section {
 #team {
   background: #fff;
   padding: 60px 0;
+  height: 500px;
 }
 
 #team .member {
